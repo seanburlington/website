@@ -7,6 +7,7 @@ categories:
 - note to self
 - github
 - curl
+- jenkins
 ---
 
 
