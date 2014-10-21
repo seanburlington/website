@@ -1,0 +1,40 @@
+var myMap = new UIMap();
+
+myMap.addPageset(
+  {
+    name: 'allPages'
+  , description: 'defaqto.com pages'
+  , pathRegexp: '.*'
+  }
+);
+
+
+
+myMap.addElement('allPages', 
+  {
+    name: 'mainLogo'
+  , description: 'the defaqto logo visible on every page'
+  , locator: "logo"
+}
+
+);
+
+myMap.addElement('allPages', 
+    {
+	  name: 'searchField'
+	, description: 'top search input'
+	, locator: "//form[@id='search-block-form']//input[@type='text']"
+	}
+);
+
+myMap.addElement('allPages', 
+    {
+	  name: 'searchButton'
+	, description: 'top search button'
+	, locator: "//form[@id='search-block-form']//input[@type='submit']"
+	}
+
+);
+
+
+

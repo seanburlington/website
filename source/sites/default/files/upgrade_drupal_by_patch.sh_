@@ -1,0 +1,68 @@
+#!/bin/sh
+
+# Author: Khalid Baheyeldin http://2bits.com
+# Author: Sean Burlington http://www.practicalweb.co.uk (modifications for module upgrades)
+# Based on Artisan Numerique http://artisan.karma-lab.net/node/1240
+#
+TMP=/tmp/drupal-patches
+[ -d $TMP ] || mkdir $TMP
+
+PROG=`basename $0`
+if [ $# != 4 ]; then
+  echo "Usage: $PROG project old_version new_version drupal_directory\ne.g. $PROG drupal 5.5 5.6 /var/www/html"
+  exit
+fi
+PROJECT=$1
+VER_OLD=$2
+VER_NEW=$3
+DRUPAL_DIR=$4
+
+# Change that to the directory where Drupal is installed
+PATCH_FILE=$TMP/$VER_OLD-to-$VER_NEW.patch
+cd $TMP
+
+#rm -rfv ${TMP}/*
+
+for VER in $VER_OLD $VER_NEW
+do
+  # Download the tar ball
+  TAR_GZ=${PROJECT}-$VER.tar.gz
+  if [ ! -f $TAR_GZ ] ; then
+    wget http://ftp.drupal.org/files/projects/$TAR_GZ
+  fi
+  if [ -r $TAR_GZ ]; then 
+    # Extract it
+    tar -xzf $TAR_GZ
+    if [ $? != 0 ]; then
+      echo "Could not extract $TAR_GZ"
+      exit 
+    fi
+    # contrib moldules are zipped without a version name - we need this in order to get two dirs and do a diff
+    if [ -d $PROJECT ] ; then
+       mv $PROJECT ${PROJECT}-${VER}
+    fi
+  else 
+    echo "Could not download $TAR_GZ"
+    exit
+  fi
+done
+
+# Now create the diff file
+diff -Naur ${PROJECT}-$VER_OLD ${PROJECT}-$VER_NEW > $PATCH_FILE
+# Now change to the directory where your Drupal installation is
+cd $DRUPAL_DIR
+echo "performing dry run to Check that the patch would apply without errors"
+patch -p1 --dry-run < $PATCH_FILE
+# Assuming there are no error from the previous step, you can
+echo "Please review the messages above, then answer the following question!"
+# now apply the patch for real
+echo "Do you want to proceed with the patch? (y/n) \c"
+read ANS
+
+case $ANS in
+y) echo "Applying patch ..."
+   patch -p1 -b < $PATCH_FILE
+   ;;
+*) echo "Patching cancelled ..."
+   ;;
+esac
