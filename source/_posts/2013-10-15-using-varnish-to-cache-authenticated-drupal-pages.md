@@ -8,12 +8,13 @@ categories:
 - esi
 - caching
 ---
-<p>I have a site which requires users to be logged in, but the pages are not customised. I was playing with a way to cache the content in varnish while still doing an access check. This method uses an access check pages (test.php below) which then uses ESI to load the real, cacheable content.</p>
+I have a site which requires users to be logged in, but the pages are not customised. I was playing with a way to cache the content in varnish while still doing an access check. This method uses an access check pages (test.php below) which then uses ESI to load the real, cacheable content.
 
-<p>I've tried it in a dev env, I'm not yet sure if we'll use this in production.</p>
+I've tried it in a dev env, I'm not yet sure if we'll use this in production.
 
-<p>Varnish config</p>
-<code>
+Varnish config
+
+```C
 probe checkslash {
     .url = "/robots.txt";
     .interval = 500s;
@@ -55,19 +56,21 @@ sub vcl_fetch {
       
 }
 
-</code>
+```
 
-<p>Then in apache I redirect all requests for pages that come via the esi prefix </p>
-
-
-<code>RewriteRule ^esi/(.*)$ test.php [L]</code>
+Then in apache I redirect all requests for pages that come via the esi prefix 
 
 
-<p>and test php is</p>
+```ApacheConf
+RewriteRule ^esi/(.*)$ test.php [L]
+```
+
+
+and test php is
 
 
 
-<code>
+```PHP
     define('DRUPAL_ROOT', getcwd());
     // We prepare only a minimal bootstrap.
     require_once DRUPAL_ROOT . '/includes/bootstrap.inc';
@@ -82,7 +85,7 @@ sub vcl_fetch {
      	header("Location: https://$_SERVER[SERVER_NAME]/login");
     }
 
-</code>
+```
 
 
   
