@@ -2,6 +2,7 @@
 layout: post
 title: IE6 on VirtualBox - installing the network driver
 created: 1225627429
+comments: true
 categories:
 - testing
 - linux

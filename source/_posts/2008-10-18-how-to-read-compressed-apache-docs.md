@@ -2,6 +2,7 @@
 layout: post
 title: ! 'How to read compressed Apache docs '
 created: 1224325598
+comments: true
 categories:
 - documentation
 - linux

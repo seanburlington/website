@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Selenium UI-Elements '
 created: 1305799535
+comments: true
 categories:
 - drupal
 - testing

@@ -2,6 +2,7 @@
 layout: post
 title: Website costs, fixed price, and bugs
 created: 1249399089
+comments: true
 categories:
 - web development
 - business processes

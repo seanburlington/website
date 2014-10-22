@@ -2,6 +2,7 @@
 layout: post
 title: Debugging Multiple Concurrent Sessions (AJAX/SOAP)
 created: 1204535202
+comments: true
 categories:
 - eclipse
 - best practice

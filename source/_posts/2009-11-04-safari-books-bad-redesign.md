@@ -2,6 +2,7 @@
 layout: post
 title: Safari Books - bad redesign
 created: 1257358213
+comments: true
 categories:
 - design
 - rant

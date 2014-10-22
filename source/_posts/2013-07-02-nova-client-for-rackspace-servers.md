@@ -2,6 +2,7 @@
 layout: post
 title: Nova client for rackspace servers
 created: 1372804263
+comments: true
 categories:
 - rackspace
 - openstack

@@ -2,6 +2,7 @@
 layout: post
 title: Show what svn update is about to do
 created: 1231932716
+comments: true
 categories:
 - svn
 ---

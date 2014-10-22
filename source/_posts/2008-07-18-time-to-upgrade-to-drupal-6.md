@@ -2,6 +2,7 @@
 layout: post
 title: Time to upgrade to Drupal 6?
 created: 1216369795
+comments: true
 categories:
 - drupal
 ---

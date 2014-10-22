@@ -2,6 +2,7 @@
 layout: post
 title: Installing Lame on Debian
 created: 1248250481
+comments: true
 categories:
 - linux
 - debian

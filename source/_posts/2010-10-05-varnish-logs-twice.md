@@ -2,6 +2,7 @@
 layout: post
 title: Varnish logs twice
 created: 1286285091
+comments: true
 categories:
 - linux
 - varnish

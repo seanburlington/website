@@ -2,6 +2,7 @@
 layout: post
 title: First look at Drupal 7
 created: 1244298334
+comments: true
 categories:
 - drupal
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: ! 'sIFR3 - fancy fonts on web pages '
 created: 1199808485
+comments: true
 categories:
 - web design
 ---

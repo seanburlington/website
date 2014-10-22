@@ -2,6 +2,7 @@
 layout: post
 title: Henri Bergius' secret agenda for PHP Content Management Systems
 created: 1310545883
+comments: true
 categories:
 - php
 - cms

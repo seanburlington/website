@@ -2,6 +2,7 @@
 layout: post
 title: Continuous Integration Testing for Drupal with CruiseControl (part 1)
 created: 1239213830
+comments: true
 categories:
 - php
 - drupal

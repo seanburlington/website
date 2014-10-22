@@ -2,6 +2,7 @@
 layout: post
 title: Keep Your Drupal Theme Simple
 created: 1215862141
+comments: true
 categories:
 - drupal
 - css

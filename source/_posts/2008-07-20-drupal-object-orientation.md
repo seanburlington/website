@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Object Orientation
 created: 1216561998
+comments: true
 categories:
 - php
 - eclipse

@@ -2,6 +2,7 @@
 layout: post
 title: replacing exported views with views in features
 created: 1302257131
+comments: true
 categories:
 - drupa
 - features

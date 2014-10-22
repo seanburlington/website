@@ -2,6 +2,7 @@
 layout: post
 title: mini scripts to obtain git id/branch/tag
 created: 1360082525
+comments: true
 categories:
 - git
 ---

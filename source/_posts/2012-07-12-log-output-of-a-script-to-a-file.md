@@ -2,6 +2,7 @@
 layout: post
 title: Log output of a script to a file
 created: 1342104408
+comments: true
 categories:
 - bash
 ---

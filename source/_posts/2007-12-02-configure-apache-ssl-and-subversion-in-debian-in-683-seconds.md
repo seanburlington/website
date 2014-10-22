@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Configure Apache SSL and Subversion in Debian in 683 seconds '
 created: 1196612144
+comments: true
 categories:
 - svn
 - apache

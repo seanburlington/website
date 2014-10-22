@@ -2,6 +2,7 @@
 layout: post
 title: git files with local changes I don't want committed
 created: 1364213713
+comments: true
 categories:
 - git
 ---

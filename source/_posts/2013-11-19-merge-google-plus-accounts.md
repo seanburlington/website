@@ -2,6 +2,7 @@
 layout: post
 title: Merge google plus accounts
 created: 1384890019
+comments: true
 categories:
 - google
 ---

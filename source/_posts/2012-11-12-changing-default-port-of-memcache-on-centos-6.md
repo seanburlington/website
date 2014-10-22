@@ -2,6 +2,7 @@
 layout: post
 title: Changing default port of memcache on Centos 6
 created: 1352724704
+comments: true
 categories:
 - sysadmin
 - centos

@@ -2,6 +2,7 @@
 layout: post
 title: Debugging SOAP with Xdebug and Eclipse
 created: 1287049334
+comments: true
 categories:
 - php
 - eclipse

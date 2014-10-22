@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Dual Head Display Dell Inspiron 1525 Ubuntu '
 created: 1216239237
+comments: true
 categories:
 - linux
 - ubuntu

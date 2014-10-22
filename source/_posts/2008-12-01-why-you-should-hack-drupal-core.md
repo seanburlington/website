@@ -2,6 +2,7 @@
 layout: post
 title: Why you should Hack Drupal Core
 created: 1228151818
+comments: true
 categories:
 - drupal
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: 3G USB modem - upgrade problems
 created: 1212582768
+comments: true
 categories:
 - linux
 ---

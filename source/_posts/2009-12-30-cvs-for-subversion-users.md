@@ -2,6 +2,7 @@
 layout: post
 title: CVS for subversion users
 created: 1262190258
+comments: true
 categories:
 - svn
 - cvs

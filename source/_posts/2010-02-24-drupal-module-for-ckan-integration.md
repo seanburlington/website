@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Module for CKAN Integration
 created: 1267052147
+comments: true
 categories:
 - drupal
 - ckan

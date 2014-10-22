@@ -2,6 +2,7 @@
 layout: post
 title: Git log of live site vs master
 created: 1342450862
+comments: true
 categories:
 - git
 ---

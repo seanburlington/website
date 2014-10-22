@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Wishlist
 created: 1257416765
+comments: true
 categories:
 - drupal
 - testing

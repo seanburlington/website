@@ -2,6 +2,7 @@
 layout: post
 title: Puppet - apache virtualhost Docroot provided by rpm
 created: 1363023616
+comments: true
 categories:
 - puppet
 - rpm

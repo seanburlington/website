@@ -2,6 +2,7 @@
 layout: post
 title: Testing PHP
 created: 1242146456
+comments: true
 categories:
 - php
 - testing

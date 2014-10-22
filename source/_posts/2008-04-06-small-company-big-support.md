@@ -2,6 +2,7 @@
 layout: post
 title: Small company - big support
 created: 1207507582
+comments: true
 categories:
 - business
 ---

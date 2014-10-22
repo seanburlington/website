@@ -2,6 +2,7 @@
 layout: post
 title: Instance parameter for drupal field_create_instance($instance)
 created: 1316795414
+comments: true
 categories:
 - drupal
 - drupal 7

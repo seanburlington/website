@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Importing Legacy Data for use as an LDAP Addressbook '
 created: 1123430885
+comments: true
 categories:
 - ldap
 ---

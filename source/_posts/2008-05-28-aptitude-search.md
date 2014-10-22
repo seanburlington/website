@@ -2,6 +2,7 @@
 layout: post
 title: Aptitude Search
 created: 1211979685
+comments: true
 categories:
 - linux
 - debian

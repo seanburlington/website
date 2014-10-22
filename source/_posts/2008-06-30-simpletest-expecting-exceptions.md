@@ -2,6 +2,7 @@
 layout: post
 title: SimpleTest - expecting Exceptions
 created: 1214837903
+comments: true
 categories:
 - php
 - drupal

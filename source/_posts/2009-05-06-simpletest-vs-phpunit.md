@@ -2,6 +2,7 @@
 layout: post
 title: simpletest vs phpunit
 created: 1241610769
+comments: true
 categories:
 - php
 - drupal

@@ -2,6 +2,7 @@
 layout: post
 title: Drupal development mail testing
 created: 1203539958
+comments: true
 categories:
 - drupal
 - testing

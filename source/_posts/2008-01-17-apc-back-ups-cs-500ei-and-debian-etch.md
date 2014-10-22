@@ -2,6 +2,7 @@
 layout: post
 title: ! 'APC Back-UPS CS 500Ei and Debian etch '
 created: 1200586353
+comments: true
 categories:
 - linux
 - debian

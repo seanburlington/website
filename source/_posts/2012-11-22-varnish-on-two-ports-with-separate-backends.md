@@ -2,6 +2,7 @@
 layout: post
 title: Varnish on two ports, with separate backends
 created: 1353584656
+comments: true
 categories:
 - varnish
 ---

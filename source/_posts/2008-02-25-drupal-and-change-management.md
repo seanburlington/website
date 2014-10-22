@@ -2,6 +2,7 @@
 layout: post
 title: Drupal and Change Management
 created: 1203930395
+comments: true
 categories:
 - drupal
 - best practice

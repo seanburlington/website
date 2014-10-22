@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Schema API has problems
 created: 1245667238
+comments: true
 categories:
 - php
 - drupal

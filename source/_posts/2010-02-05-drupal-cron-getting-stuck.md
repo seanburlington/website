@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Cron getting stuck
 created: 1265367726
+comments: true
 categories:
 - drupal
 - cron

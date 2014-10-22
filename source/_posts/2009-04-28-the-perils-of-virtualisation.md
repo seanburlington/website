@@ -2,6 +2,7 @@
 layout: post
 title: The Perils of virtualisation
 created: 1240935961
+comments: true
 categories:
 - testing
 - linux

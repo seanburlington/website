@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Full text searching on PostgreSQL with tsearch2 '
 created: 1123603685
+comments: true
 categories:
 - postgresql
 - sql

@@ -2,6 +2,7 @@
 layout: post
 title: How to build a Centos 6 base Box for vagrant
 created: 1350398761
+comments: true
 categories:
 - centos
 - ci

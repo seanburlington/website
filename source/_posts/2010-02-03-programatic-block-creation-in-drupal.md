@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Programatic Block Creation in Drupal '
 created: 1265219854
+comments: true
 categories:
 - drupal
 ---

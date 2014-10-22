@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Number Crunching : Database vs OOP'
 created: 1223200221
+comments: true
 categories:
 - testing
 - best practice

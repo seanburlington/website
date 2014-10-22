@@ -2,6 +2,7 @@
 layout: post
 title: Vagrant / Puppet project to setup a RPM build server and custom yum repository
 created: 1353781179
+comments: true
 categories:
 - redhat
 - centos

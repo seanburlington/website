@@ -2,6 +2,7 @@
 layout: post
 title: Spamassassin troubleshooting
 created: 1107360485
+comments: true
 categories:
 - linux
 - email

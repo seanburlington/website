@@ -2,6 +2,7 @@
 layout: post
 title: Delete Drupal View programatically
 created: 1278066157
+comments: true
 categories:
 - drupal
 - api

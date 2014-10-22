@@ -2,6 +2,7 @@
 layout: post
 title: ! 'RAID - protecting my data '
 created: 1194884144
+comments: true
 categories:
 - linux
 ---

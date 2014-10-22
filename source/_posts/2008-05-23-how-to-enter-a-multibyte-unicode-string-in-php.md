@@ -2,6 +2,7 @@
 layout: post
 title: How to enter a multibyte Unicode string in PHP
 created: 1211559255
+comments: true
 categories:
 - php
 - internationalisation

@@ -2,6 +2,7 @@
 layout: post
 title: Going Google
 created: 1259181474
+comments: true
 categories:
 - google
 - android

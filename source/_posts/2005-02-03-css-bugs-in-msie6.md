@@ -2,6 +2,7 @@
 layout: post
 title: ! 'CSS bugs in MSIE6 '
 created: 1107447344
+comments: true
 categories:
 - css
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Search skype history across chats
 created: 1381768039
+comments: true
 categories:
 - skype
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Overriding Drupal database variables
 created: 1236760346
+comments: true
 categories:
 - drupal
 ---

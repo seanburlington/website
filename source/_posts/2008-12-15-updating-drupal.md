@@ -2,6 +2,7 @@
 layout: post
 title: Updating Drupal
 created: 1229380293
+comments: true
 categories:
 - drupal
 - mysql

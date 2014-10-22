@@ -2,6 +2,7 @@
 layout: post
 title: Things to like about Symfony so far
 created: 1246184114
+comments: true
 categories:
 - php
 - symfony

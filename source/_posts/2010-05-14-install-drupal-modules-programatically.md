@@ -2,6 +2,7 @@
 layout: post
 title: Install Drupal Modules Programatically
 created: 1273826477
+comments: true
 categories:
 - drupal
 ---

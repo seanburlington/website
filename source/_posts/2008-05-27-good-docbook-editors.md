@@ -2,6 +2,7 @@
 layout: post
 title: Good docbook editors
 created: 1211925912
+comments: true
 categories: []
 ---
 <p>

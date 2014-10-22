@@ -2,6 +2,7 @@
 layout: post
 title: Mobile Internet reaching Critical Mass?
 created: 1215694150
+comments: true
 categories:
 - drupal
 - web 3.0

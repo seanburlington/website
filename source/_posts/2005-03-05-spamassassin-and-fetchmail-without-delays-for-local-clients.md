@@ -2,6 +2,7 @@
 layout: post
 title: Spamassassin and fetchmail without delays for local clients
 created: 1110038885
+comments: true
 categories:
 - email
 - spam

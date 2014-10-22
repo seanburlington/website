@@ -2,6 +2,7 @@
 layout: post
 title: jMeter cookies and redirects
 created: 1333558937
+comments: true
 categories:
 - jmter
 - load testing

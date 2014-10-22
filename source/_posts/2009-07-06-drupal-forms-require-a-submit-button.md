@@ -2,6 +2,7 @@
 layout: post
 title: Drupal forms require a submit button
 created: 1246870864
+comments: true
 categories:
 - drupal
 - ajax

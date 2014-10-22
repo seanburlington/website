@@ -2,6 +2,7 @@
 layout: post
 title: How to create a custom yum repository on Centos 6
 created: 1353516364
+comments: true
 categories:
 - linux
 - redhat

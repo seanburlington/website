@@ -2,6 +2,7 @@
 layout: post
 title: Install runkit for unit testing
 created: 1216917479
+comments: true
 categories:
 - php
 - drupal

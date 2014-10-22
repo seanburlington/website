@@ -2,6 +2,7 @@
 layout: post
 title: Optimising PHP
 created: 1236865970
+comments: true
 categories:
 - php
 - programming

@@ -2,6 +2,7 @@
 layout: post
 title: Programatically altering a CCK node type
 created: 1277465640
+comments: true
 categories:
 - drupal
 - deployment

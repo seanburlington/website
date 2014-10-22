@@ -2,6 +2,7 @@
 layout: post
 title: PracticalWeb Joins Drupal Association
 created: 1217069036
+comments: true
 categories:
 - drupal
 ---

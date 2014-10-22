@@ -2,6 +2,7 @@
 layout: post
 title: How to use google comments on your blog
 created: 1384890611
+comments: true
 categories:
 - google
 - comments

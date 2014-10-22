@@ -2,6 +2,7 @@
 layout: post
 title: Programatically Delete a content type in Drupal
 created: 1304613296
+comments: true
 categories:
 - drupal
 - snippet

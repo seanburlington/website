@@ -2,6 +2,7 @@
 layout: post
 title: Bug in Trac on Ubuntu Jaunty
 created: 1265104161
+comments: true
 categories:
 - ubuntu
 - trac

@@ -2,6 +2,7 @@
 layout: post
 title: Varnish ACL
 created: 1285943785
+comments: true
 categories:
 - linux
 - varnish

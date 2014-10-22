@@ -2,6 +2,7 @@
 layout: post
 title: Documenting Drupal Websites
 created: 1210333422
+comments: true
 categories:
 - drupal
 - documentation

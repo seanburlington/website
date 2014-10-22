@@ -2,6 +2,7 @@
 layout: post
 title: Monitor filesystem for deletions
 created: 1348826442
+comments: true
 categories:
 - drupal
 - linux

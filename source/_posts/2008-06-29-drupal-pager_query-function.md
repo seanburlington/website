@@ -2,6 +2,7 @@
 layout: post
 title: Drupal pager_query function
 created: 1214775644
+comments: true
 categories:
 - drupal
 ---

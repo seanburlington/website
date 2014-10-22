@@ -2,6 +2,7 @@
 layout: post
 title: Jenkins publish over ssh - parameterized
 created: 1366304591
+comments: true
 categories:
 - jenkins
 ---

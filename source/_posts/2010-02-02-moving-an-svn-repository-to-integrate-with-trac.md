@@ -2,6 +2,7 @@
 layout: post
 title: Moving an svn repository to integrate with trac
 created: 1265102951
+comments: true
 categories:
 - ubuntu
 - svn

@@ -2,6 +2,7 @@
 layout: post
 title: node_save tags by term name with auto addition of new tags
 created: 1316711548
+comments: true
 categories:
 - drupal
 - programatically

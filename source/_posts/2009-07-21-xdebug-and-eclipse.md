@@ -2,6 +2,7 @@
 layout: post
 title: xdebug and Eclipse
 created: 1248184815
+comments: true
 categories:
 - php
 - eclipse

@@ -2,6 +2,7 @@
 layout: post
 title: Testing websites in IE - verions 6 to 8
 created: 1207296910
+comments: true
 categories:
 - css
 - testing

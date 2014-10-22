@@ -2,6 +2,7 @@
 layout: post
 title: Drupal multisite with shared tables
 created: 1218109341
+comments: true
 categories:
 - drupal
 - sql

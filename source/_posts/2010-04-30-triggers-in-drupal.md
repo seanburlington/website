@@ -2,6 +2,7 @@
 layout: post
 title: Triggers in Drupal
 created: 1272640265
+comments: true
 categories:
 - drupal
 ---

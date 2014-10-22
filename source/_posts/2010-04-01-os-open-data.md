@@ -2,6 +2,7 @@
 layout: post
 title: OS Open Data
 created: 1270136967
+comments: true
 categories:
 - open data
 - maps

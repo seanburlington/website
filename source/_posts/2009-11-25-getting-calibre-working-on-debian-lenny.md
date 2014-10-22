@@ -2,6 +2,7 @@
 layout: post
 title: Getting Calibre working on Debian Lenny
 created: 1259182759
+comments: true
 categories:
 - linux
 - debian

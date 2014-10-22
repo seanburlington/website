@@ -2,6 +2,7 @@
 layout: post
 title: Reinstall grub after windows breaks it
 created: 1360689034
+comments: true
 categories:
 - linux
 - windows

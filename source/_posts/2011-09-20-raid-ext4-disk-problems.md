@@ -2,6 +2,7 @@
 layout: post
 title: RAID ext4 disk problems
 created: 1316524845
+comments: true
 categories:
 - linux
 - note to self

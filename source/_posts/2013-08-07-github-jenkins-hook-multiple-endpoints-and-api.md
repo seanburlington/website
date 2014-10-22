@@ -2,6 +2,7 @@
 layout: post
 title: github Jenkins Hook - multiple endpoints and API
 created: 1375869048
+comments: true
 categories:
 - api
 - note to self

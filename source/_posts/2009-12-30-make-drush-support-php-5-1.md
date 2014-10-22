@@ -2,6 +2,7 @@
 layout: post
 title: Make Drush support PHP-5.1
 created: 1262178978
+comments: true
 categories:
 - php
 - drupal

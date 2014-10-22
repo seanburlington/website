@@ -2,6 +2,7 @@
 layout: post
 title: Drupal Live and Dev sync
 created: 1248354066
+comments: true
 categories:
 - drupal
 - sql

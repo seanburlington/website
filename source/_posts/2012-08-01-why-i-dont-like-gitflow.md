@@ -2,6 +2,7 @@
 layout: post
 title: Why I don't like gitflow
 created: 1343826159
+comments: true
 categories:
 - git
 - version control

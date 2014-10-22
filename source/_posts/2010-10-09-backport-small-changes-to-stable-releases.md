@@ -2,6 +2,7 @@
 layout: post
 title: ! '"Backport small changes to stable releases"'
 created: 1286660948
+comments: true
 categories:
 - drupal
 - drupal planet

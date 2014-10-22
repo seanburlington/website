@@ -2,6 +2,7 @@
 layout: post
 title: Varnish caching - passing a hostname
 created: 1273769992
+comments: true
 categories:
 - linux
 - varnish

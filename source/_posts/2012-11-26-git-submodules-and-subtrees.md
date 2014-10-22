@@ -2,6 +2,7 @@
 layout: post
 title: Git submodules and subtrees
 created: 1353935257
+comments: true
 categories:
 - git
 ---

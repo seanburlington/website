@@ -2,6 +2,7 @@
 layout: post
 title: Selenium IDE exports to PHP
 created: 1240831613
+comments: true
 categories:
 - php
 - testing

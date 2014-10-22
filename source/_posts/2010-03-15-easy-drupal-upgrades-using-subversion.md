@@ -2,6 +2,7 @@
 layout: post
 title: Easy Drupal Upgrades using Subversion
 created: 1268662897
+comments: true
 categories:
 - drupal
 - svn

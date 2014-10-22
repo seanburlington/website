@@ -2,6 +2,7 @@
 layout: post
 title: Google Android
 created: 1232279592
+comments: true
 categories:
 - 3g
 - web 3.0

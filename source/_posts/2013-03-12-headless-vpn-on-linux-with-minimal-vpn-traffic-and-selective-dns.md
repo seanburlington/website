@@ -2,6 +2,7 @@
 layout: post
 title: headless VPN on linux with minimal VPN traffic and selective DNS
 created: 1363124344
+comments: true
 categories:
 - linux
 - vpn

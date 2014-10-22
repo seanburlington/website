@@ -2,6 +2,7 @@
 layout: post
 title: Nework Error after VirtualBox Upgrade
 created: 1240828545
+comments: true
 categories:
 - testing
 - virtualbox

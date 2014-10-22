@@ -2,6 +2,7 @@
 layout: post
 title: Squid proxy password authentication
 created: 1212948813
+comments: true
 categories:
 - linux
 ---

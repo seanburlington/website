@@ -2,6 +2,7 @@
 layout: post
 title: Drupal api module
 created: 1212533095
+comments: true
 categories:
 - drupal
 - documentation

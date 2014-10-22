@@ -2,6 +2,7 @@
 layout: post
 title: Is git now a mature toolset?
 created: 1276156885
+comments: true
 categories:
 - git
 ---

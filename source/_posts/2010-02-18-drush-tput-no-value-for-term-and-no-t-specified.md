@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Drush "tput: No value for $TERM and no -T specified"'
 created: 1266492214
+comments: true
 categories:
 - drupal
 - linux

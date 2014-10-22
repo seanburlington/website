@@ -2,6 +2,7 @@
 layout: post
 title: ! 'firefox 3 + firebug + eclipse '
 created: 1203005553
+comments: true
 categories:
 - eclipse
 - firefox

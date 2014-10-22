@@ -2,6 +2,7 @@
 layout: post
 title: version control with Git
 created: 1238694136
+comments: true
 categories:
 - drupal
 - svn

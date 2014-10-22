@@ -2,6 +2,7 @@
 layout: post
 title: Eclipse hangs
 created: 1363012155
+comments: true
 categories:
 - eclipse
 - note to self

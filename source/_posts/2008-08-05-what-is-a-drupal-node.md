@@ -2,6 +2,7 @@
 layout: post
 title: What is a Drupal node?
 created: 1217953842
+comments: true
 categories:
 - drupal
 ---

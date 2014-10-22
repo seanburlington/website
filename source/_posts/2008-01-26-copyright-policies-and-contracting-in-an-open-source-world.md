@@ -2,6 +2,7 @@
 layout: post
 title: ! 'copyright policies and contracting in an open source world '
 created: 1201363953
+comments: true
 categories:
 - copyright
 - gpl

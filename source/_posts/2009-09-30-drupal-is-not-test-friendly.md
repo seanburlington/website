@@ -2,6 +2,7 @@
 layout: post
 title: Drupal is not Test Friendly
 created: 1254306836
+comments: true
 categories:
 - drupal
 - unit testing

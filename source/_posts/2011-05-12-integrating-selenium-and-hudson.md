@@ -2,6 +2,7 @@
 layout: post
 title: Integrating Selenium and Hudson
 created: 1305196080
+comments: true
 categories:
 - php
 - drupal

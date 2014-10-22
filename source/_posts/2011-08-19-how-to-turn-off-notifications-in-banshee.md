@@ -2,6 +2,7 @@
 layout: post
 title: How to turn off notifications in Banshee
 created: 1313749311
+comments: true
 categories:
 - linux
 - annoying

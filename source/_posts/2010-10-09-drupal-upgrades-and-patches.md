@@ -2,6 +2,7 @@
 layout: post
 title: Drupal upgrades and patches
 created: 1286648495
+comments: true
 categories:
 - drupal
 - svn

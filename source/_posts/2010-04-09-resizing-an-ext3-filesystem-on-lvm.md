@@ -2,6 +2,7 @@
 layout: post
 title: Resizing an ext3 filesystem on LVM
 created: 1270816543
+comments: true
 categories:
 - linux
 ---

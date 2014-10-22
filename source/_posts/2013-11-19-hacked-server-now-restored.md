@@ -2,6 +2,7 @@
 layout: post
 title: Hacked server (now restored)
 created: 1384885598
+comments: true
 categories:
 - security
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: script to email git log as part of a dev deploy
 created: 1342104596
+comments: true
 categories:
 - bash
 - ci

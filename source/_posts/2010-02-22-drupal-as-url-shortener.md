@@ -2,6 +2,7 @@
 layout: post
 title: Drupal as URL shortener
 created: 1266842622
+comments: true
 categories:
 - drupal
 - shorturl

@@ -2,6 +2,7 @@
 layout: post
 title: phar - like jar but for php
 created: 1237116457
+comments: true
 categories:
 - php
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Mobile Internet and Ubuntu
 created: 1211712241
+comments: true
 categories:
 - linux
 - contracting

@@ -2,6 +2,7 @@
 layout: post
 title: Export from Git for Drupal site releases
 created: 1321355695
+comments: true
 categories:
 - drupal
 - svn

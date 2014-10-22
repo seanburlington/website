@@ -2,6 +2,7 @@
 layout: post
 title: ! 'ARGGGHHH - Silent failures! '
 created: 1202314085
+comments: true
 categories:
 - drupal
 - best practice

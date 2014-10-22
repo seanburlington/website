@@ -2,6 +2,7 @@
 layout: post
 title: Selenium WebDriver annotations and firefox connection trouble
 created: 1335958585
+comments: true
 categories:
 - selenium
 - webdriver

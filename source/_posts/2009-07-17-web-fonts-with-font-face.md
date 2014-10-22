@@ -2,6 +2,7 @@
 layout: post
 title: Web fonts with @font-face
 created: 1247834854
+comments: true
 categories:
 - css
 - design

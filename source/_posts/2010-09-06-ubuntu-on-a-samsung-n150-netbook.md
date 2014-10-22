@@ -2,6 +2,7 @@
 layout: post
 title: Ubuntu on a Samsung N150 netbook
 created: 1283757953
+comments: true
 categories:
 - linux
 - ubuntu

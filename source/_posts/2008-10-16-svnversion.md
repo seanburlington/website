@@ -2,6 +2,7 @@
 layout: post
 title: svnversion
 created: 1224152740
+comments: true
 categories:
 - programming
 - svn

@@ -2,6 +2,7 @@
 layout: post
 title: When to Choose Drupal
 created: 1257274330
+comments: true
 categories:
 - drupal
 - cms

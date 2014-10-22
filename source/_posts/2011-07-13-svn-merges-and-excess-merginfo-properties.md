@@ -2,6 +2,7 @@
 layout: post
 title: svn merges and excess merginfo properties
 created: 1310545208
+comments: true
 categories:
 - svn
 ---

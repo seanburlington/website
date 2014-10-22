@@ -2,6 +2,7 @@
 layout: post
 title: Eclipse PDT and Subversion
 created: 1225646494
+comments: true
 categories:
 - php
 - eclipse

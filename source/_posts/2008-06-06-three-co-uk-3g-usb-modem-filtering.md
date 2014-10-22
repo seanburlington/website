@@ -2,6 +2,7 @@
 layout: post
 title: three.co.uk 3G USB modem - filtering
 created: 1212767149
+comments: true
 categories:
 - 3g
 ---

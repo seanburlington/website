@@ -2,6 +2,7 @@
 layout: post
 title: Can't login to Drupal (404)
 created: 1335346849
+comments: true
 categories:
 - drupal
 - apache

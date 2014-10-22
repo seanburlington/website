@@ -2,6 +2,7 @@
 layout: post
 title: SVN diff ignoring whitespace
 created: 1227265738
+comments: true
 categories:
 - svn
 ---

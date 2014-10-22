@@ -2,6 +2,7 @@
 layout: post
 title: ssh port forwarding
 created: 1266580442
+comments: true
 categories:
 - linux
 - ssh

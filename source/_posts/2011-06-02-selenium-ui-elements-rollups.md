@@ -2,6 +2,7 @@
 layout: post
 title: Selenium UI-Elements Rollups
 created: 1307031756
+comments: true
 categories:
 - testing
 - selenium

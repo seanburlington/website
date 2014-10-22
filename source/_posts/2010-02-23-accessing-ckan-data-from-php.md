@@ -2,6 +2,7 @@
 layout: post
 title: Accessing CKAN data from PHP
 created: 1266960166
+comments: true
 categories:
 - php
 - drupal

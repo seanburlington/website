@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Reconfiguring the X server on Debian '
 created: 1107360753
+comments: true
 categories:
 - linux
 - debian

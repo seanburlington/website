@@ -2,6 +2,7 @@
 layout: post
 title: Drupal hook_user reset
 created: 1269871540
+comments: true
 categories:
 - drupal
 ---

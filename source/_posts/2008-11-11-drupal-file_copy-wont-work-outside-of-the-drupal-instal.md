@@ -2,6 +2,7 @@
 layout: post
 title: Drupal file_copy won't work outside of the Drupal instal
 created: 1226436724
+comments: true
 categories:
 - php
 - drupal

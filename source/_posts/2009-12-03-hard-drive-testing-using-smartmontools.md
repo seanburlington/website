@@ -2,6 +2,7 @@
 layout: post
 title: Hard Drive Testing using smartmontools
 created: 1259835502
+comments: true
 categories:
 - linux
 - smartmontools

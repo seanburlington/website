@@ -2,6 +2,7 @@
 layout: post
 title: subversion + three.co.uk = proxy trouble
 created: 1212945922
+comments: true
 categories:
 - eclipse
 - linux

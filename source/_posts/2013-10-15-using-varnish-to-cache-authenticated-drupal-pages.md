@@ -2,6 +2,7 @@
 layout: post
 title: Using varnish to cache authenticated Drupal pages
 created: 1381867342
+comments: true
 categories:
 - drupal
 - varnish

@@ -2,6 +2,7 @@
 layout: post
 title: Accessible Rich Internet Applications (WAI-ARIA)
 created: 1238850450
+comments: true
 categories:
 - accesibility
 ---

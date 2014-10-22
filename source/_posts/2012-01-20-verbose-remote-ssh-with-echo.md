@@ -2,6 +2,7 @@
 layout: post
 title: verbose remote ssh (with echo)
 created: 1327078051
+comments: true
 categories:
 - linux
 - bash

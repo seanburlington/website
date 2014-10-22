@@ -2,6 +2,7 @@
 layout: post
 title: Translating Drupal Websites
 created: 1211135277
+comments: true
 categories:
 - internationalisation
 - drupal

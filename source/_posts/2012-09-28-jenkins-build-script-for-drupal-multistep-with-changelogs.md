@@ -2,6 +2,7 @@
 layout: post
 title: Jenkins Build script for Drupal - multistep with changelogs
 created: 1348827009
+comments: true
 categories:
 - drupal
 - jenkins

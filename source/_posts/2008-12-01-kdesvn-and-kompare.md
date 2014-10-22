@@ -2,6 +2,7 @@
 layout: post
 title: Kdesvn and Kompare
 created: 1228140059
+comments: true
 categories:
 - linux
 - svn

@@ -2,6 +2,7 @@
 layout: post
 title: Is Drupal a Standard?
 created: 1257167006
+comments: true
 categories:
 - drupal
 - best practice

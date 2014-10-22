@@ -2,6 +2,7 @@
 layout: post
 title: Debugging drush updb
 created: 1277456208
+comments: true
 categories:
 - drupal
 - xdebug

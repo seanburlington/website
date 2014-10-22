@@ -2,6 +2,7 @@
 layout: post
 title: Using Exceptions in PHP
 created: 1238076605
+comments: true
 categories:
 - php
 - drupal

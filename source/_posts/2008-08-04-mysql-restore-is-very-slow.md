@@ -2,6 +2,7 @@
 layout: post
 title: MySQL restore is very slow
 created: 1217855511
+comments: true
 categories:
 - mysql
 - ubuntu

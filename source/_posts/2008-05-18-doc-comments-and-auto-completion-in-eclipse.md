@@ -2,6 +2,7 @@
 layout: post
 title: Doc-comments and auto-completion in Eclipse
 created: 1211135599
+comments: true
 categories:
 - php
 - eclipse

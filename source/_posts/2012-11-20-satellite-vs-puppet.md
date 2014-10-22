@@ -2,6 +2,7 @@
 layout: post
 title: Satellite vs Puppet
 created: 1353452991
+comments: true
 categories:
 - puppet
 - satellite

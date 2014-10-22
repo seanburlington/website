@@ -2,6 +2,7 @@
 layout: post
 title: Hope is Not a Risk Management Strategy
 created: 1248346222
+comments: true
 categories:
 - agile
 - planning

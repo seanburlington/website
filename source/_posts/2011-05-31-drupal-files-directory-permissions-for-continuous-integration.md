@@ -2,6 +2,7 @@
 layout: post
 title: Drupal files directory  permissions for continuous integration
 created: 1306838736
+comments: true
 categories:
 - drupal
 - linux

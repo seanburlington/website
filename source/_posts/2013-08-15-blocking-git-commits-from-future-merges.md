@@ -2,6 +2,7 @@
 layout: post
 title: Blocking git commits from future merges
 created: 1376585364
+comments: true
 categories:
 - svn
 - git

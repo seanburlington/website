@@ -2,6 +2,7 @@
 layout: post
 title: Drupal has no API
 created: 1252055826
+comments: true
 categories:
 - drupal
 - api

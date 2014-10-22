@@ -2,6 +2,7 @@
 layout: post
 title: Returning info from Drupal updates
 created: 1274285242
+comments: true
 categories:
 - drupal
 ---

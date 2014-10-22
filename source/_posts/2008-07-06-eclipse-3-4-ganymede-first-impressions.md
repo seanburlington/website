@@ -2,6 +2,7 @@
 layout: post
 title: Eclipse 3.4 (Ganymede) First Impressions
 created: 1215361202
+comments: true
 categories:
 - php
 - eclipse

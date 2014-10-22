@@ -2,6 +2,7 @@
 layout: post
 title: ! 'creating a patch from cvs '
 created: 1200067953
+comments: true
 categories:
 - drupal
 - cvs

@@ -2,6 +2,7 @@
 layout: post
 title: Configure Squid proxy server for subversion access
 created: 1214318552
+comments: true
 categories:
 - linux
 - programming

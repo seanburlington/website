@@ -2,6 +2,7 @@
 layout: post
 title: SeleniumRC and self signed SSL certs
 created: 1305304950
+comments: true
 categories:
 - selenium
 ---

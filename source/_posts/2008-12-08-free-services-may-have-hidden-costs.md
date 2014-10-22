@@ -2,6 +2,7 @@
 layout: post
 title: Free services may have hidden costs
 created: 1228725642
+comments: true
 categories:
 - web 2.0
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Configuring WIFI with Debian
 created: 1248214568
+comments: true
 categories:
 - linux
 - debian

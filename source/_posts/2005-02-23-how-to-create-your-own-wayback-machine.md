@@ -2,6 +2,7 @@
 layout: post
 title: ! 'How to create your own Wayback Machine '
 created: 1109174885
+comments: true
 categories:
 - linux
 - apache

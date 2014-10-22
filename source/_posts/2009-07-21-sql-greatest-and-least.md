@@ -2,6 +2,7 @@
 layout: post
 title: SQL Greatest and Least
 created: 1248179499
+comments: true
 categories:
 - postgresql
 - mysql

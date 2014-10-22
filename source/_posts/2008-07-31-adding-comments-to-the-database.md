@@ -2,6 +2,7 @@
 layout: post
 title: Adding comments to the database
 created: 1217513738
+comments: true
 categories:
 - documentation
 - mysql

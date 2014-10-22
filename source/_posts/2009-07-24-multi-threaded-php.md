@@ -2,6 +2,7 @@
 layout: post
 title: Multi-threaded PHP
 created: 1248432450
+comments: true
 categories:
 - php
 - multi-threading

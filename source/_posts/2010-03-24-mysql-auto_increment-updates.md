@@ -2,6 +2,7 @@
 layout: post
 title: MySQL AUTO_INCREMENT updates
 created: 1269446847
+comments: true
 categories:
 - mysql
 - bug

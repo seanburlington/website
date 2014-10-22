@@ -2,6 +2,7 @@
 layout: post
 title: Upgrading Debian Etch to Lenny
 created: 1264086783
+comments: true
 categories:
 - linux
 - debian

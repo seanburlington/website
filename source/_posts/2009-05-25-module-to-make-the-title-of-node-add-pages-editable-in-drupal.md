@@ -2,6 +2,7 @@
 layout: post
 title: Module to make the Title of node/add pages editable in Drupal
 created: 1243248147
+comments: true
 categories:
 - drupal
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Ubuntu 10.04 Bluetooth Audio
 created: 1286401208
+comments: true
 categories:
 - linux
 - ubuntu

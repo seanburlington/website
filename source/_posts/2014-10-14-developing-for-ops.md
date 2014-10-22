@@ -2,6 +2,7 @@
 layout: post
 title: Developing for Ops
 created: 1413308069
+comments: true
 categories:
 - debugging
 - devops

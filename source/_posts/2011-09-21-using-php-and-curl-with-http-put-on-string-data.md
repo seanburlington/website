@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Using PHP and curl with http PUT on string data '
 created: 1316617180
+comments: true
 categories:
 - php
 - http

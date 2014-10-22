@@ -2,6 +2,7 @@
 layout: post
 title: Adding more data types to schema API for Drupal 7
 created: 1244406129
+comments: true
 categories:
 - drupal
 - postgresql

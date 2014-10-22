@@ -2,6 +2,7 @@
 layout: post
 title: Cross Platform Testing with Selenium and VirtualBox
 created: 1240830242
+comments: true
 categories:
 - php
 - testing

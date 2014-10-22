@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Connecting Tomcat 5 to apache 2 using mod jk 1.2 (in a virtual host and
   using Debian) '
+comments: true
 created: 1113062885
 categories:
 - java

@@ -2,6 +2,7 @@
 layout: post
 title: Varnish config on Debian
 created: 1273841630
+comments: true
 categories:
 - debian
 - varnish

@@ -2,6 +2,7 @@
 layout: post
 title: Less is More (CSS)
 created: 1245659630
+comments: true
 categories:
 - css
 - ruby

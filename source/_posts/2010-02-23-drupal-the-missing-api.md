@@ -2,6 +2,7 @@
 layout: post
 title: Drupal - the missing API
 created: 1266917288
+comments: true
 categories:
 - drupal
 - api

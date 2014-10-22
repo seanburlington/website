@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Check Drupal for update hook changes '
 created: 1342111276
+comments: true
 categories:
 - drupal
 - drupal planet

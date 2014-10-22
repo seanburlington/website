@@ -2,6 +2,7 @@
 layout: post
 title: Practical Symfony
 created: 1246126153
+comments: true
 categories:
 - php
 - symfony

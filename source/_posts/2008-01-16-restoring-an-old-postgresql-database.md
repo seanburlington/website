@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Restoring an old postgresql database '
 created: 1200499685
+comments: true
 categories:
 - postgresql
 ---

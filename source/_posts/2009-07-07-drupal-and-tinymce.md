@@ -2,6 +2,7 @@
 layout: post
 title: Drupal and TinyMCE
 created: 1247000401
+comments: true
 categories:
 - drupal
 - javascript

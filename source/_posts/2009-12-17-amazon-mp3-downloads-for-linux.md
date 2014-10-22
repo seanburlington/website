@@ -2,6 +2,7 @@
 layout: post
 title: Amazon MP3 Downloads for Linux
 created: 1261044958
+comments: true
 categories:
 - linux
 - mp3

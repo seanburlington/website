@@ -2,6 +2,7 @@
 layout: post
 title: Import an svn repository to git
 created: 1305372373
+comments: true
 categories:
 - svn
 - git

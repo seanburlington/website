@@ -2,6 +2,7 @@
 layout: post
 title: How sure are you that your code doesn't have bugs?
 created: 1240999833
+comments: true
 categories:
 - testing
 - fun

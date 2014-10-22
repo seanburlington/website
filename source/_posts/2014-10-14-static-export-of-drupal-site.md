@@ -2,6 +2,7 @@
 layout: post
 title: Static export of Drupal site
 created: 1413324637
+comments: true
 categories:
 - drupal
 - mod-rewrite

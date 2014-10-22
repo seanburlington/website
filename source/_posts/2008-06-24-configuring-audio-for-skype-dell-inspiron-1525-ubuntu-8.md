@@ -2,6 +2,7 @@
 layout: post
 title: Configuring Audio for Skype Dell Inspiron 1525 Ubuntu 8
 created: 1214295543
+comments: true
 categories:
 - linux
 - ubuntu

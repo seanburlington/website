@@ -2,6 +2,7 @@
 layout: post
 title: Selenium test for computedStyle
 created: 1309246900
+comments: true
 categories:
 - css
 - testing

@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Version Control and Drupal '
 created: 1199376753
+comments: true
 categories:
 - drupal
 - svn

@@ -2,6 +2,7 @@
 layout: post
 title: Device eth0 does not seem to be present, delaying initialization.
 created: 1335957998
+comments: true
 categories:
 - linux
 - virtualbox
