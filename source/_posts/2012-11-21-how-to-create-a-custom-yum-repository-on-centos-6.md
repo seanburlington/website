@@ -13,12 +13,12 @@ categories:
 - repo
 - repository
 ---
-<p>If you want to create custom rpms and install then with the usual automated dependency management you'll need your own yum repository. This is just the RPMS and metadata in the format of static xml files served by a webserver.</p>
+If you want to create custom rpms and install then with the usual automated dependency management you'll need your own yum repository. This is just the RPMS and metadata in the format of static xml files served by a webserver.
 
 
-<h2>First you need a GPG key to sign your packages.</h2>
+## First you need a GPG key to sign your packages.
 
-<code>
+```bash
 # make some randomness if running headless 
 sudo rngd -r /dev/urandom 
 # start the agent
@@ -27,27 +27,30 @@ gpg-agent --use-standard-socket --daemon
 gpg --gen-key
 # 
 gpg --export -a 'My Name' > MY-RPM-GPG-KEY
-</code>
+```
 
-<p>You won't need the random generator if you do this on a desktop, but on a headless system I found I needed this. These actions will store a private key in your keyring, and a public key in the specified file.</p>
+You won't need the random generator if you do this on a desktop, but on a headless system I found I needed this. These actions will store a private key in your keyring, and a public key in the specified file.
 
 
-<h2>Build your rpm</h2>
-<p>First configure rpm to use the key you just added to your key ring, checing you don't oveerwrite earlier configuration).</p>
-<code>
+## Build your rpm
+
+First configure rpm to use the key you just added to your key ring, checing you don't oveerwrite earlier configuration).
+
+```bash
 [ ! -f ~/.rpmmacros ] && echo '%_signature gpg
 %_gpg_name  My Name
 ' > ~/.rpmmacros
-</code>
-<p>Now build your RPM (assuming you are already setup to do this).</p>
-<code>
+
+Now build your RPM (assuming you are already setup to do this).
+
+```bash
 rpmbuild -bb --sign ~/rpmbuild/SPECS/my-project.spec
-</code>
+```
 
-<h2>Setup the Yum Repo</h2>
-<p>Setup apache, make the directory structure, with teh repo files. This can be the same or a different server to your build machine.</p>
+## Setup the Yum Repo
+Setup apache, make the directory structure, with teh repo files. This can be the same or a different server to your build machine.
 
-<code>
+```bash
 
 # make the repo base url
 sudo mkdir -p /var/www/html/myrepo
@@ -65,27 +68,27 @@ echo 'Alias /myrepo/ /var/www/html/myrepo/
 # restart Apache to pickup the change
 service restart httpd
 
-</code>
+```
 
-<h2>Configure the system that will use the custom repo</h2>
+## Configure the system that will use the custom repo
 
-<p>Copy over the GPG key, and import it into the  rpm database.</p>
+Copy over the GPG key, and import it into the  rpm database.
 
-<code>
+```bash
 sudo rpm --import MY-RPM-GPG-KEY
-</code>
+```
 
-<p>Configure yum to use the new repo.</p>
+Configure yum to use the new repo.
 
-<code>
+```bash
 echo '[my-repo]
 name=My Custom Packages
 baseurl=http://yum.example.com/myrepo
 > /etc/yum.repos.d/my.repo 
 
-</code>
+```
 
-<p>Now you should be able to install your custom packages with regular yum commands. When you update your rpms just re-run the createrepo command to update the metadata.</p>
+Now you should be able to install your custom packages with regular yum commands. When you update your rpms just re-run the createrepo command to update the metadata.
 
 
 
