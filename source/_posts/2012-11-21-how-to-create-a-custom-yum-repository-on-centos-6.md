@@ -40,6 +40,8 @@ First configure rpm to use the key you just added to your key ring, checing you 
 [ ! -f ~/.rpmmacros ] && echo '%_signature gpg
 %_gpg_name  My Name
 ' > ~/.rpmmacros
+```
+
 
 Now build your RPM (assuming you are already setup to do this).
 

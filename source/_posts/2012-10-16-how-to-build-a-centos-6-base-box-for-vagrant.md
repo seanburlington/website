@@ -13,9 +13,11 @@ categories:
 
 -------------------------------
 
-You're probably better off using [veewee](https://github.com/jedi4ever/veewee) or [packer](http://www.packer.io/)
+Update : [Creating new Vagrant base boxes with Veewee](/blog/2014/10/28/creating-new-vagrant-base-boxes-with-veewee/)
 
-I went down a manual route as I wanted to understand the process, and since I'm familiar with manual installs this was the easiest path for me at the time.
+I originally went down a manual route as I wanted to understand the process, and since I'm familiar with manual installs this was the easiest path for me at the time.
+
+You're probably better off using [veewee](https://github.com/jedi4ever/veewee) or [packer](http://www.packer.io/)
 
 ------------------------------
 
