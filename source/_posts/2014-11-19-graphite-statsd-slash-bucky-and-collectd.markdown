@@ -183,11 +183,15 @@ More details at http://obfuscurity.com/2012/04/Unhelpful-Graphite-Tip-4
 
 ```bash
 /usr/bin/python /usr/lib/python2.6/site-packages/graphite/manage.py syncdb
-``
+```
 
-
-Another useful post https://kevinmccarthy.org/blog/2013/07/18/10-things-i-learned-deploying-graphite/
 
 Writing this up now it all seems quite simple - but I haven't really found it so, I think the main problem has been understanding what graphite is actually doing, and not taking the trouble to optimise that config as a first step.
 
+Pages I found useful 
+
+ * https://kevinmccarthy.org/blog/2013/07/18/10-things-i-learned-deploying-graphite/
+ * http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite/
+ * http://statsd.readthedocs.org/en/latest/types.html#counters
+ * http://code.hootsuite.com/accurate-counting-with-graphite-and-statsd/
 
