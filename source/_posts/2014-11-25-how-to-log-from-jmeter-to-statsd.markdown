@@ -39,7 +39,7 @@ Now on the Sampler you want to record data for add a beanshell post processor
 
 You can retrieve the statsd connection from the props variable, and obtain the request time taken from the prev variable which is a org.apache.jmeter.samplers.SampleResult 
 
-Onve we have the pieces together logging teh request time to statsd is simple
+Once we have the pieces together logging the request time to statsd is simple
 
 ```java
 
