@@ -16,6 +16,13 @@ Linux containers are *much* lighter weight - being faster to create and using mu
 
 There is a nice quick demo of docker https://www.docker.com/tryit/
 
+The steps below cover installing ansible and docker, building a simple docker image, and then using an ansible playbook to both create a container and then connect to that container. I just run a hello world at that point - but from there running any ansible code should be simple.
+
+
+
+------------------------
+
+
 On Ubuntu I installed the latest version via ppa following the notes from https://docs.docker.com/installation/ubuntulinux/
 
 ```bash 
@@ -118,7 +125,7 @@ git clone https://github.com/practicalweb/docker-ansible.git
 cd docker-ansible
 ```
 
-Note that I don't include my public key there (it is gitigtnored)
+Note that I don't include my public key there (it is gitignored)
 
 copy your by something like 
 ```bash
