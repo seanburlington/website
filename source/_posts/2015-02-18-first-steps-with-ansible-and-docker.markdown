@@ -78,6 +78,7 @@ Those last steps are a slight variation on the official docs as I didn't want to
 
 
 I created a Dockerfile which builds me a base image that just has
+
  * sshd running
  * the ssh port exposed
  * ansible user added
