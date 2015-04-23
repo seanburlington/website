@@ -11,7 +11,7 @@ Quick function to delete a view.
 
 This is basically what the UI form submit does.
 
-<?php
+```php
 
 function delete_view($name) {
 
@@ -21,4 +21,4 @@ function delete_view($name) {
 
 }
 
-?>
+```
