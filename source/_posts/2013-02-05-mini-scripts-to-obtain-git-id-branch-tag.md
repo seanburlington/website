@@ -7,7 +7,7 @@ categories:
 - git
 ---
 
-<code>
+```bash
 $new_branch=$1 # passed as param
 
 current_branch="$(git symbolic-ref HEAD 2>/dev/null)"
@@ -19,4 +19,4 @@ new_id=$(git rev-parse --short origin/$new_branch)
 
 last_tag=$(git describe --abbrev=0 --tags)
 
-</code>
+```
