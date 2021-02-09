@@ -1,18 +1,19 @@
 ---
 layout: post
-title: ! 'Connecting Tomcat 5 to apache 2 using mod jk 1.2 (in a virtual host and
-  using Debian) '
+title: "Connecting Tomcat 5 to apache 2 using mod jk 1.2 (in a virtual host and using Debian) "
 comments: true
 created: 1113062885
 categories:
-- java
-- apache
-- tomcat
+  - java
+  - apache
+  - tomcat
 ---
+
 This
 is fairly well documented on the apache site - but you have to pull
 info together from a few pages and the importance of virtual servers is
 easy to miss.
+
 <div class="post-entry">
 <ol>
 	<li>

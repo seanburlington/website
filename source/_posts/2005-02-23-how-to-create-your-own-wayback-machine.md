@@ -1,12 +1,13 @@
 ---
 layout: post
-title: ! 'How to create your own Wayback Machine '
+title: How to create your own Wayback Machine
 created: 1109174885
 comments: true
 categories:
-- linux
-- apache
+  - linux
+  - apache
 ---
+
 <p>
 I’ve long been impressed with the <a href="http://www.archive.org/">wayback machine</a> and found it very useful to find things that have disappeared from the rest of the Internet.
 </p>

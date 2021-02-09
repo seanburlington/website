@@ -4,9 +4,10 @@ title: Documenting Drupal Websites
 created: 1210333422
 comments: true
 categories:
-- drupal
-- documentation
+  - drupal
+  - documentation
 ---
+
 <p>
 With any sizeable project maintaining good documentation is a challenge - it's all to easy to skimp on documentation, or to start with good intentions but allow the documentation to get out of date.
 </p>
@@ -42,4 +43,3 @@ To install the API module:
 	<li>run cron a few times to get some pages indexed (by default only 10 pages are indexed at a time)</li>
 	<li>That should be it</li>
 </ul>
- 
